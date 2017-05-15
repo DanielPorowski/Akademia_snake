@@ -1,0 +1,4 @@
+Witam
+W moim projekcie zrobie gre Snake znan¹ z telefonów Nokia. Gra bêdzie wykonana w WPFie.
+Bêdzie mo¿na sterowaæ wê¿em i zbieraæ randomowo pojawiaj¹ce siê punkty które bed¹ powiêksza³y wê¿a.
+Przewiduje ró¿ne poziomy trudnoœci.# Akademia_snake
